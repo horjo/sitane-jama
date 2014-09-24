@@ -1,0 +1,17 @@
+P1
+
+P2
+Prindib välja ainult 15, sest
+
+P3
+Proovisin Math.max, mis toob välja kahest arvust suurima
+Teisena proovisin Math.rint, mis viib double tüüpi arvu lähima täisarvuni, kas siis suuremaks või vähemaks.
+
+P4
+static int kontroll(int a, int b)
+static double kontroll(double c)
+static String kontroll(String d, int a)
+
+P6
+Arvan, et prindib välja välja kaks korda jarj1[1], ehk arvu 3 ning lisab järjendisse teisele kohale arvu 4 ning
+siis prindib arvu 4 kaks korda
